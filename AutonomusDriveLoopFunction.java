@@ -30,12 +30,12 @@ else if (strength <HOLD_IR_SIGNAL_STRENGTH)
 {
 // the IR signal is weak, approach
 motorRight.setPower(MOTOR_POWER);
-motorLeft.setPower(MOTUR POWER);
+motorLeft.setPower(MOTOR_POWER);
 } 
 else 
 {
 // the IR signal Is strong, stay here
-motorRight.set0ower(0.0);
+motorRight.setPower(0.0);
 motorLeft.setPower(0.0);
 }
  
