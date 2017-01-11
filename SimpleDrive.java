@@ -18,6 +18,8 @@ wrist - hardwareMap.servo.get("servo_2");
 @Override 
 
 public void loop()
+
+{
 // throttle: left stick y ranges from -1 to 1, when -1 is full up, and 1 IS full down 
 // direction: left stick _x ranges from -1 to 1, where -1 is full left and 1 is full right
 
