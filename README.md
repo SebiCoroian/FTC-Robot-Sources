@@ -3,6 +3,6 @@
 ### All of the files are explained within the programming section in our engineering notebook. 
 ### I've linked below some PDF files to better understand how the scripts work
 
-## [Autonomus](
+## [Autonomus](https://github.com/SebiCoroian/FTC-Robot-Sources/blob/master/Scripts%20explaining.pdf)
 
 ## [teleOp](
