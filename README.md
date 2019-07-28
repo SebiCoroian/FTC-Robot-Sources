@@ -2,7 +2,7 @@
 
 ### All of the files are explained within the programming section in our engineering notebook. 
 
-#### [Deway](Deway.JPG)
+![Deway](Deway.JPG)
 
 ### I've linked below some PDF files to better understand how the scripts work
 
