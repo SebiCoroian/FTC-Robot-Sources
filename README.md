@@ -5,4 +5,4 @@
 
 ## [Autonomus](https://github.com/SebiCoroian/FTC-Robot-Sources/blob/master/Scripts%20explaining.pdf)
 
-## [teleOp](
+## [teleOp](https://github.com/SebiCoroian/FTC-Robot-Sources/blob/master/Control%20explaining.pdf)
